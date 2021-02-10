@@ -13,8 +13,10 @@ The project is meant to create an advanced attendance taking system to help teac
 
 ### Admin Login Details:
 Login Id: admin@gmail.com
+
 Password: pass@123
 
 ### Teacher Login Details:
 Login Id: teacher@gmail.com
+
 Password: pass@123
